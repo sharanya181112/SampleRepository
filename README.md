@@ -1,2 +1,2 @@
-# SampleRepository Testing123
+# SampleRepository
 Spring Pet Clinic application
